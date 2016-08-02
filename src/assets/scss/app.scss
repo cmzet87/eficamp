@@ -48,3 +48,15 @@
 
 @include motion-ui-transitions;
 @include motion-ui-animations;
+
+@import "components/colors";
+@import "components/fonts";
+@import "components/footer";
+@import "components/form_elements";
+@import "components/header";
+@import "components/icons";
+@import "components/main";
+@import "components/modules";
+@import "components/nav";
+@import "components/variables";
+@import "pages/login";

@@ -1,0 +1,17 @@
+.login {
+	background-image: url(../img/efi3_login.jpg);
+	background-size: cover;
+	height: 100vh;
+}
+
+.login-box {
+	margin-top: 100px;
+	background-color: $form-color;
+	width: 100%;
+	text-align: center;
+	color: $font-white;
+}
+
+.login-box h2 {
+	padding-top: 45px;
+}
